@@ -1,7 +1,7 @@
 {
-  "name": "flashcard",
+  "name": "temperature-convertor",
   "version": "1.0.0",
-  "description": "Flashcard App",
+  "description": "Temperature Convertor App",
   "scripts": {
     "start": "webpack-dev-server --open"
   },
