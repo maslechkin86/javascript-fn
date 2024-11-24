@@ -1,7 +1,7 @@
 {
-  "name": "tipcalculator",
+  "name": "caloriecounter",
   "version": "1.0.0",
-  "description": "Tip Calculator App",
+  "description": "Calorie Counter App",
   "scripts": {
     "start": "webpack-dev-server --open"
   },
